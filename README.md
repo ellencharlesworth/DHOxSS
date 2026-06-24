@@ -1,5 +1,5 @@
 # Applied Data Analysis - DHOxSS
-Teaching materials for the `Applied Data Analysis` course at the 2025 Digital Humanities Oxford Summer School.
+Teaching materials for the `Applied Data Analysis` course at the 2026 Digital Humanities Oxford Summer School.
 
 ## Programme
 - Monday 4th August 2025
